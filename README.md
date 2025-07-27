@@ -40,28 +40,26 @@ An Analytics project to simulate and analyze influencer marketing campaigns for 
 
 ## 📈 Features
 - Performance tracking of posts and influencers
-- ROAS and ROI comparison across personas
 - Platform/category-wise insights
-- Visualizations for top and poor performing influencers
+- ROAS comparison across personas
+- Top performing and Poor performing Influencers
 
 ---
 
 ## 🚀 How to Run
 1. Clone the repo
-2. Open Jupyter and run:
-   - "simulate_data.ipynb" , creates all 4 datasets
-   - "influencer_dashboard.ipynb" -> analysis + insights
+2. Open Jupyter and run: "samien_healthkart intern_assignment.ipynb"
 
 ---
 
 ## 🎯 Deliverables
--  Jupyter notebooks
--  Visualized insights
+-  Jupyter Notebook with Visualizations
 -  README.md (this file)
+-  Insights Summary PDF
 
 ---
 
 ## 🙌 Credits
 Made with Intent, 
-Samien Raahhat
+Shaik Samien Raahhat
 
